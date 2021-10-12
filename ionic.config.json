@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Repro-24062",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
